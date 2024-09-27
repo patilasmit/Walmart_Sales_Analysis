@@ -51,7 +51,7 @@ The dataset used in this project was obtained from the **Kaggle Walmart Sales Fo
 The major aim of this project is to gain insights into Walmart's sales data and understand the various factors affecting sales across different branches. By addressing the business questions outlined above, the project seeks to identify trends and patterns that can inform sales strategies and enhance decision-making.
 
 ## Dashboard Visualization
-For a comprehensive view of the analysis, please check out the interactive dashboard in the [Walmart Sales Dashboard Repository](<insert-your-dashboard-repo-link-here>).
+For a comprehensive view of the analysis, please check out the interactive dashboard in the [Walmart Sales Dashboard Repository](https://github.com/patilasmit/Walmart-Sales-Dashboard).
 
 ## Conclusion
 The **Walmart Sales Data Analysis Project** provides a comprehensive analysis of sales data, allowing stakeholders to understand customer behavior, product performance, and branch effectiveness. Insights derived from this analysis can guide future strategies and operational improvements.
